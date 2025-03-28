@@ -4,6 +4,8 @@
 # FlowSync
 
 ## 🚀 About FlowSync
+**🏆 Best Project in the WEB Domain at SPIT Hackathon 2025**
+
 FlowSync is a no-code automation platform that simplifies workflow automation across multiple applications with an intuitive **drag-and-drop interface**. Designed for individuals, entrepreneurs, and small businesses, FlowSync enables seamless **multi-app integrations**, **multi-step workflows**, and **offline execution**, making automation more accessible and efficient.
 
 ---
